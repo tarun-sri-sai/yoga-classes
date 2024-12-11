@@ -2,11 +2,8 @@
 
 ## Requirements
 
-- `node`: v20.5.1
-- `npm`: v9.8.0
-- `npx`: v9.8.0
-- `python`: v3.12.1
-- `pip`: v23.2.1
+- node:20
+- python:3.12
 
 ## Installation
 
